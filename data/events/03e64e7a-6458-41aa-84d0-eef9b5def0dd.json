@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "1625f2a3-128b-42f6-a67c-2a6bffb70fc0": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/utblac/utblac_024cc5f9-2a31-48e1-81b9-f86765b0e6e6/MP4/utblac_024cc5f9-2a31-48e1-81b9-f86765b0e6e6.mp4/playlist.m3u8",
+      "duration": 660
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-02T22:09:02.746Z",
+  "created_by": "amtellez16",
+  "item_type": "Audio",
+  "label": "Latino USA Program 363, Week #14-00",
+  "updated_at": "2025-04-02T22:09:02.746Z",
+  "updated_by": "amtellez16"
+}
